@@ -1,0 +1,27 @@
+.row-fluid .span2.bs--hide__column {
+  display:none;
+  border:1px solid red;
+}
+
+#mainContentDiv {
+  margin-left: 0px;
+}
+
+.container-fluid {
+  padding-left:5px;
+}
+
+.orbisTabContainer .tab-content {
+  width: 100vw;
+}
+
+.orbisFooter a,
+.orbisFooter a:focus,
+.orbisFooter a:active,
+.orbisFooter a:visited {
+  color: #fff;
+}
+
+.orbisFooter a:hover {
+  text-decoration: underline;
+}
