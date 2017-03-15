@@ -7,8 +7,33 @@
       "matches": [
         "https://waterlooworks.uwaterloo.ca/myAccount/co-op/coop-postings.htm"
       ],
-      "css": ["css/style.css"],
-      "js": ["js/jquery-3.1.1.min.js", "js/content.js"]
+      "css": [
+        "css/custom.css"
+      ],
+      "js": [
+        "js/jquery-3.1.1.min.js",
+        "js/content.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://waterlooworks.uwaterloo.ca/myAccount/co-op/interviews-co-op.htm"
+      ],
+      "js": [
+        "js/interviews.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://waterlooworks.uwaterloo.ca/*"
+      ],
+      "css": [
+        "css/style.css"
+      ],
+      "js": [
+        "js/jquery-3.1.1.min.js",
+        "js/all.js"
+      ]
     }
   ],
   "web_accessible_resources": ["css/style.css"]

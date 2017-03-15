@@ -1,18 +1,10 @@
-.row-fluid .span2.bs--hide__column {
-  display:none;
-  border:1px solid red;
-}
-
-#mainContentDiv {
-  margin-left: 0px;
-}
-
-.container-fluid {
-  padding-left:5px;
-}
-
-.orbisTabContainer .tab-content {
-  width: 100vw;
+.btn-custom {
+  width: auto;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: normal;
 }
 
 .orbisFooter a,

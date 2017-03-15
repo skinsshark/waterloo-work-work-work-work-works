@@ -1,0 +1,15 @@
+.row-fluid .span2.bs--hide__column {
+  display:none;
+}
+
+#mainContentDiv {
+  margin-left: 0px;
+}
+
+.container-fluid {
+  padding-left:5px;
+}
+
+.orbisTabContainer .tab-content {
+  width: 100vw;
+}
